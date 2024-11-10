@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Proj_B
+Version: 0.0.1
+Author: Anna MK
+Requires-Dist: python-dotenv
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: pymongo
+Requires-Dist: certifi
